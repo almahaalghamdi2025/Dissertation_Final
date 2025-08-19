@@ -38,7 +38,6 @@ The datasets used are publicly available and sourced from official Saudi governm
 
 As a result, no raw datasets are included in this repository.
 
-Data can be provided **upon request**, subject to availability and data-sharing approval.
 ---
 
 ## Reproducibility Notice
